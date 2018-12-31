@@ -1,5 +1,5 @@
-# anguular_nestjs
-Ce projet permet de creer user et le supprimer ainsi que afficher tous les postes creés par un user 
+# Angular_nestjs
+Ce projet permet de créer un utilisateur et le supprimer ainsi que d'afficher tous les postes créés par cet utilisateur. 
 ![image](https://user-images.githubusercontent.com/46101779/50552918-20b67680-0c95-11e9-9361-83aa554fe373.png)
 ![image](https://user-images.githubusercontent.com/46101779/50552920-31ff8300-0c95-11e9-9182-d67ff2c1bab1.png)
 ![image](https://user-images.githubusercontent.com/46101779/50552924-3a57be00-0c95-11e9-9bf5-a233afb0e7dd.png)
